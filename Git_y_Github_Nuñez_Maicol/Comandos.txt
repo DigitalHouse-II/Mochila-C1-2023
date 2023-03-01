@@ -1,0 +1,5 @@
+Git Init | crear(iniciar) repositorio
+Git add | agregar archivo/carpeta a repositorio
+git commit -m | ingresar los cambios a la rama
+fit pull | actualizar archivos locales
+git push | ingresar los cambios locales a la nube
