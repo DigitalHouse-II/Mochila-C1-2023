@@ -1,0 +1,9 @@
+Git init: creación de un repositorio local
+git clone: clonamos el repositorio remoto con el local 
+git add .:  Añadir archivos al repositorio creado anteriormente
+git status: Muestra el estado de los archivos en el repositorio 
+git commit nombre -m "mensaje del commit": mensaje explicando el motivo del commit
+git pull: Actualizar los archivos del repositorio local con el remoto
+git push:Actualizar los archivos del repositorio remoto con el local
+git branch nombre_rama: crear una nueva rama 
+git checkout nombre_rama: Dirigirse a una rama existente  
