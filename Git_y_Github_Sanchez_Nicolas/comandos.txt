@@ -1,0 +1,63 @@
+…or create a new repository on the command line
+
+echo "# jhyv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nicos91189/jhyv.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/nicos91189/jhyv.git
+git branch -M main
+git push -u origin main
+
+
+--------------------------
+git init // inicializa un repositorio vacio
+
+commit son los paquetes que voy a ir guardando
+
+git config user.name "nombre de usuario de git"
+git config user.name //me devuelve el nombre
+git config user.email "mail usado"
+git config user.email //me devuelve el mail usado
+ya lo tengo configurado para esta pc // git config --global user.name "miusuario"/user.email "micorreo"
+
+git add . //agrega todos los archivos desde q estoy parado
+git add "nombre de archivo" //archivo especifico
+git status //muestra el estatus de los archivos
+
+git commit -m "primer commit del proyecto"
+lo tengo q usar cada vez que quiera marcar un punto en el tiempo 
+git log //muestra un hisotrial de los commits
+git log --oneline
+git checkout "version" //me lleva a la commit que quiera
+git show "codigo del commit"
+--------------------------
+para subir a la nuve
+primero crear un repositorio en github
+copiar link ej https://github.com/nicos91189/probando-repositorio.git
+git remote add origin https://github.com/nicos91189/probando-repositorio.git
+git remote -v //me muestra si se creo conexion
+git push origin master (o master)// envia a la nuve los commits creados
+es necesario haber hecho los add y commit antes de subirlos
+
+git clone "link exacto a descargar"//para descargar todo el repositorio de la nuevo link de clone
+
+git pull origin master//acutaliza las variaciones que haya sufrido 
+
+----------------------
+para desvincular
+git remote remove origin
+
+para borrar el .git 
+rm -rf .git
+
+para cambiar nombre de la rama
+git branch -M main
+
+nueva rama
+git Branch + el nombre
