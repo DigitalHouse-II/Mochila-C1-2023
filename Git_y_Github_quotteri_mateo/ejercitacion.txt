@@ -1,0 +1,11 @@
+a- diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento 
+de versiones de aplicaciones cuando estas 
+tienen un gran número de archivos de código fuente.
+Git fue creado debido a le necesidad de un software que pudiera conservar cualquier código fuente en el que se esté trabajando o esté en gestión, 
+tales aspectos como los archivos, su contenido, los directorios, las versiones, las etiquetas y las confirmaciones.
+
+b- Github actualmente pertenece a Microsoft debido a que la empresa se hizo propietario de la plataforma el mes 6 del 2018.
+
+c-Si, si indagamos en las documentaciones de Github hallamos que si quieres trabajar con Git de forma local,
+ pero no quieres utilizar la línea de comandos, puedes descargar e instalar en su lugar 
+el cliente GitHub Desktop. 
