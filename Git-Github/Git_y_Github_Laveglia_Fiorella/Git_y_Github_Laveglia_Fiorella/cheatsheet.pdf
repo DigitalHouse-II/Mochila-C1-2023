@@ -1,0 +1,10 @@
+$ git init: inicia el repositorio local
+$ git clone: clona un repositorio remoto de forma local. 
+$ git log: muestra el historial de los commits.
+$ git status: Muestra los archivos modificados.
+$ git add .:  Agrega todos los archivos y carpetas. 
+$ git commit -m "mensaje": agrega comentarios al subir modificaciones. 
+$ git push: envía todas las modificaciones, archivos y carpetas al repositorio remoto. 
+$ git branch "nombre de rama": crea una nueva rama. 
+$ git checkout "nombre de rama": cambia de rama. 
+
