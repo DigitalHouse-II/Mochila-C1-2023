@@ -1,0 +1,42 @@
+         -------  CheatSheet  -------
+git init 
+Creas un repositorio local-
+
+git add 
++ "nombre del archivo";
++ "." toma todos los archivos;
+Agregas los archivos al repositorio local.
+
+git status
+Vez el estado de los archivos.
+
+git commit -m "Aclaracion"
+comitias los cambios echos (Quedan guardados como version)
+
+git remote add origin "url"
+asocias tu repositorio local con uno github.
+
+git push origin "nombre de la rama"
+subis los cambios al repositorio local
+
+git clone "url" 
+clonas un repositorio de github a tu pc. 
+
+git pull origin "nombre rama"
+extraes los archivos del repo de github a tu pc.
+
+git log
+te muestra todo los commit registrados.
+
+mkdir "nombre carpeta"
+creas carpetas.
+
+touch "nombreArchivo."tipo de archivo"
+creas archivos.
+
+
+
+
+
+
+
