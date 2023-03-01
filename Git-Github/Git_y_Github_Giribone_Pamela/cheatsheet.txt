@@ -1,0 +1,9 @@
+cheatsheet de comandos git y github
+    git commit -m ".." -- creo los commit con mensaje descriptivo.
+    git log -- veo los commit que ya estan creados
+    git add . -- agrega todos los archivos que esten sin agregar para despues poder generar un commit
+    git clone -- descargo el repositorio de github
+    git push origin main -- subo los archivos al repositorio
+    git pull origin main -- actualizo los archivos nuevos o modificados
+    git status -- seguimiento del estado de los archivos
+    git branch <NombreRama> -- crea una rama del repositorio
