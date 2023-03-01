@@ -1,0 +1,82 @@
+CREAR CARPETAS
+$ mkdir nombre_carpeta
+
+CREAR ARCHIVO
+$ touch nombre.extencion
+
+BORRAR
+$ rmdir //sólo borra carpetas vacías
+$ rm -r //borra carpetas con contenido 
+$ rm //borra archivo
+
+CAMBIAR DE CARPETA
+$ cd
+$ cd ..  //sube un nivel de carpeta
+
+MOVER O RENOMBRAR ARCHIVOS O CARPETAS
+$ mv
+
+COPIAR
+$ cp  //copia tanto archivo o carpeta
+$ cp -r  //copia recursivamente lo que hay en carpeta
+
+MUESTRA CARPETA ACTUAL
+$ pwd
+
+CONFIGURAR USUARIO
+$ git config user.name "usuario"
+
+CONFIGURAR EMAIL
+$ git config user.email "email"
+
+CREAR NUEVO REPOSITORIO 
+$ git init   //genera un REPOSITORIO local
+
+LISTANDO HASTA LOS ARCHIVOS OCULTOS
+$ ls -a  //una manera de ver dónde se realizó el Repositorio.
+
+CLONAR REPOSITORIO EXISTENTE
+$ git clone URL // ejemplo de URL: https://github.com/DigitalHouse-II/Mochila-C1-2023.git
+
+CREAR NUEVA RAMA
+$ git branch nombre_rama
+
+CAMBIAR DE RAMA
+$ git checkout nombre_rama
+
+AGREGAR ARCHIVOS AL REPOSITORIO
+$ git add nombre.extension  //agrega de a uno al repositorio
+$ git add .  //agrega todos los archivos al repositorio
+
+SEGUIMIENTO DEL ESTADO DE LOS ARCHIVOS
+$ git status
+
+CREANDO COMMITS
+$ git commit -m "mensaje"
+
+VISUALIZA HISTORIAL DE COMMITS
+$ git log
+
+MOSTRAR INFO COMPLETA DE UN COMMIT
+$ git show
+
+SACAR ARCHIVO DE SEGUIMIENTO
+$ git rm --cached nombre.extension
+
+BORRAR REPOSITORIOS LOCALES
+$ rm - rf .git
+
+VINCULAR REPOSITORIO EN GIT DE LA URL DE github
+$ git remote add origin URL
+
+VERIFICAR LA VINCULACIÓN
+$ git remote -v
+
+DESVINCULAR EL SEGUIMIENTO DE REPOSITORIO DESDE LA URL
+$ git remote remove
+
+SUBIR COMMITS DE LOCAL A REMOTO
+$ git push origin nombre_rama
+
+DESCARGAR COMMITS DEL REMOTO AL LOCAL
+$ git pull origin nombre_rama
