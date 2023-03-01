@@ -1,0 +1,26 @@
+git status
+show modified files in working directory, staged for your next commit
+
+git add [file]
+add a file as it looks now to your next commit (stage)
+
+git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot
+
+git init
+initialize an existing directory as a Git repository
+
+git clone [url]
+retrieve an entire repository from a hosted location via URL
+
+git branch
+list your branches. a * will appear next to the currently active branch
+
+git checkout
+switch to another branch and check it out into your working directory
+
+git push [alias] [branch]
+Transmit local branch commits to the remote repository branch
+
+git pull
+fetch and merge any commits from the tracking remote branch
