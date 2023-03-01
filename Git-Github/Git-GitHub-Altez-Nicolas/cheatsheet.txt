@@ -1,0 +1,13 @@
+Comandos git:
+Git status : Sirve para ver el estado actual de los archivos
+Git add : Se utiliza para agregar los archivos a la zona de staged
+Git commit -m : Se utiliza para guardar los archivos que se encuentran en zona de staged, el comando -m indica un mensaje en el commit.
+git push origin : Se utiliza para subir los cambios efecutados al repositorio remoto, seguido del comando se tiene que indicar el nombre de la rama a la cual se quiere pushear.
+git pull origin : Se utiliza para actualizar la informacion local desde el repositorio remoto, seguido del comando se agrega el nombre de la rama de la cual se quiere obtener la informacion.
+Git checkout -b : Sirve para crear una rama y automaticamente trasladarse a ella para poder empezar a trabajar, seguido del comando se agrega el nombre que va a tener la rama.
+Git switch : sirve para cambiarnos de rama, seguido del comando se agrega el nombre de la rama que queremos movernos.
+Git diff : sirve para visualizar los cambios efectuados en un archivo determinado.
+Git branch : muestra un listado de todas las ramas que tenemos.
+git stash : sirve para guardar temporalmente los cambios realizados en un archivo, sin afectar el repositorio de git.
+git log : sirve para visualizar el historial de commits que fueron realizados.
+git restore --staged : sirve para quitar un archivo de la zona de staged y volverlo a la zona de untracked.
