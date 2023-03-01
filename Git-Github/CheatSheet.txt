@@ -1,0 +1,7 @@
+Clonar un Repositorio existente: $ git clone (pegar https del Repositorio)
+Crear un nuevo Repositorio local: $ git innit
+Poner un comentario: $ git commit -m "comentario"
+Crear una rama: $git branch
+Subir los cambios: $git push
+Bajar los cambios del Repositorio: $git pull
+Juntar ramas: $git merge
