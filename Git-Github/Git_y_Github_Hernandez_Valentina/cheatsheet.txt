@@ -1,0 +1,7 @@
+git clone: clonar un repositorio
+git add: guardar cambios
+git merge: unir ramas
+git branch: crear rama
+git checkout: cambiar de rama
+git commit: avisar los cambios
+git push: subir cambios a la rama
