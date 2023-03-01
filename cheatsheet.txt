@@ -1,0 +1,6 @@
+git init = crea repositorio local
+git add = agrega todos los archivos
+git log = historial de modificaciones
+git status = ver seguimientos de los archivos
+git remote -v = ver si estas conectado
+ls -a = muestra los archivos ocultos
