@@ -1,0 +1,13 @@
+Crear
+Clonar un respoitorio existente
+$git clone ssh://usuariodomain.com/repo.git
+Crear un nuevo repositorio local
+$ git init
+Agregar archivos modificados
+$ git add . o git add 'nombre del archivo'
+Comitear archivos 
+$ git commit -m 'texto descriptivo'
+Subir archivos comiteados a repo remoto
+$ git push origin (main o rama)
+Descargar repositorio remoto comiteado 
+$ git pull origin 
