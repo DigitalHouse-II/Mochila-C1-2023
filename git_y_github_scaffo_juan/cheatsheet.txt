@@ -1,0 +1,7 @@
+ git init inicia un repositorio.
+ git add agrega los archivos al staged
+ git commit -m "mensaje" confirma los archivos
+ git push origin main sube los archivos a github
+ git clone http.. permite clonar los repositorios remotos existentes en nuestro repositorio local
+ 
+
