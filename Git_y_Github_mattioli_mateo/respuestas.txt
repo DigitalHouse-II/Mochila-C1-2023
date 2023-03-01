@@ -1,0 +1,6 @@
+1-  Git fue creado por el desarrollador de software Linus Torvalds en el año 2005. Torvalds es conocido por ser el creador del kernel de Linux, y en ese momento estaba buscando un sistema de control de versiones que pudiera manejar el desarrollo del kernel de Linux de manera más eficiente. Git fue creado por el desarrollador de software Linus Torvalds en el año 2005.
+ Torvalds es conocido por ser el creador del kernel de Linux, y en ese momento estaba buscando un sistema de control de versiones que pudiera manejar el desarrollo del kernel de Linux de manera más eficiente.
+2- GitHub es propiedad de Microsoft desde 2018. La adquisición fue parte de la estrategia de Microsoft para expandirse en el mundo del software de código abierto y la nube.
+
+3- Sí, se puede trabajar con GitHub a través de la interfaz web de GitHub, las aplicaciones de escritorio de GitHub y las integraciones con herramientas de desarrollo.
+
