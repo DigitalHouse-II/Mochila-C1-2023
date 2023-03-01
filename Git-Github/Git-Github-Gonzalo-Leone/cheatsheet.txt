@@ -1,0 +1,21 @@
+git init:
+Crear un nuevo repositorio local
+
+git add .:
+Agrega todos los archivos modificados
+
+git commit -m "mensaje":
+commitea los cambios hechos
+
+git push origin (nombre de la rama):
+envía los cambios al repositorio remoto
+
+git status:
+seguimiento del estado de los archivos
+
+git clone (url del proyecto):
+descarga por primera vez un repositorio remoto
+
+git pull origin (nombre de la rama):
+actualiza el codigo en nuestro repositorio local
+
