@@ -1,0 +1,10 @@
+Comandos más utilizados hasta el momento
+
+$git init /para crear el repositorio. Crea un archivo invisible .git en la carpeta donde es ejecutado el comando. 
+$ git add . / Para agregar los archivos a seguimiento 
+$ git status / para ver en qué estado está cada archivo del respositorio (los archivos con seguimiento o sin)
+$ git config user.name "nombre de usuario" /para identificar el usuario que va a realizar commits
+$ git config user.email "email" / también para identificar el usuario que va a realizar commits
+$ git commit -m "Nombre del commit" / crea el commit de los archivos en seguimiento
+$ git clone ruta /para descargar el repositorio remoto 
+$ git push origin master/main / para enviar los cambios realizados al repositorio remoto  
