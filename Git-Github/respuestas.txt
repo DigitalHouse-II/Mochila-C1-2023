@@ -1,0 +1,34 @@
+git clone: clona un repositorio existente desde GitHub o cualquier otro servidor remoto en tu máquina local.
+
+git init: inicializa un repositorio nuevo y vacío en el directorio actual.
+
+git add: agrega un archivo o un conjunto de archivos al área de preparación para ser incluido en el próximo commit.
+
+git commit: confirma los cambios en el área de preparación y crea una nueva instantánea (snapshot) en el historial del repositorio.
+
+git push: envía los cambios confirmados localmente al repositorio remoto.
+
+git pull: descarga y fusiona los cambios remotos en tu repositorio local.
+
+git fetch: descarga los cambios remotos en tu repositorio local sin fusionarlos.
+
+git merge: fusiona los cambios descargados mediante git fetch en tu rama local.
+
+git branch: muestra una lista de ramas locales y te permite crear nuevas ramas.
+
+git checkout: te permite cambiar entre ramas o restaurar versiones anteriores de un archivo.
+
+git status: muestra el estado actual del repositorio, incluyendo los archivos que se han cambiado, los archivos que se han agregado al área de preparación y los archivos que se han confirmado.
+
+git log: muestra un registro de todos los commits realizados en el repositorio.
+
+git reset: revierte los cambios realizados en un archivo o un conjunto de archivos a una versión anterior.
+
+git rm: elimina un archivo o un conjunto de archivos del repositorio y del sistema de control de versiones.
+
+Estos son solo algunos de los comandos más comunes de Git. Para obtener más información sobre cómo usar estos comandos y otros comandos avanzados de Git, consulta la documentación oficial de Git.
+
+
+
+
+
