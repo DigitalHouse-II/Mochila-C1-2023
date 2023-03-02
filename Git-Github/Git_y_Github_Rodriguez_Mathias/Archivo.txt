@@ -4,3 +4,17 @@ b. ¿A quién pertenece actualmente Github y por qué?
 A Microsoft porque lo compro.
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Si, se puede usar interface grafica.
+Git fue creado por Linus Torvalds en 2005. Torvalds es más conocido por crear el kernel de Linux, 
+pero también desarrolló Git como un sistema de control de versiones distribuido para administrar el 
+código fuente de Linux.
+
+GitHub fue fundado en 2008 por Tom Preston-Werner, Chris Wanstrath y PJ Hyett. 
+En 2018, GitHub fue adquirido por Microsoft por $7.5 mil millones de dólares.
+ GitHub sigue siendo propiedad de Microsoft en la actualidad.
+
+Sí, hay otras formas de trabajar con GitHub que no implican el uso de la terminal. 
+GitHub proporciona una interfaz web que permite crear y administrar repositorios, 
+así como realizar otras tareas de gestión de proyectos como la revisión de código,
+ el seguimiento de problemas y la colaboración con otros desarrolladores.
+  Además, hay varias herramientas de terceros disponibles, como clientes de escritorio y extensiones de IDE,
+ que ofrecen una interfaz gráfica de usuario para interactuar con GitHub.
