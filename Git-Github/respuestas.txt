@@ -28,7 +28,7 @@ git rm: elimina un archivo o un conjunto de archivos del repositorio y del siste
 
 Estos son solo algunos de los comandos más comunes de Git. Para obtener más información sobre cómo usar estos comandos y otros comandos avanzados de Git, consulta la documentación oficial de Git.
 
-
+hola
 
 
 
