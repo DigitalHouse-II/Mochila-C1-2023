@@ -1,0 +1,3 @@
+Git lo inventó Linus Torvalds para tener un sistema de control eficiente de software en desarrollo.
+Pertenece a Microsoft quien lo compró el 4 de junio de 2018 por 7500 millones de dólares.
+Si quieres trabajar con Git de forma local, pero no quieres utilizar la línea de comandos, puedes descargar e instalar en su lugar el cliente GitHub Desktop
