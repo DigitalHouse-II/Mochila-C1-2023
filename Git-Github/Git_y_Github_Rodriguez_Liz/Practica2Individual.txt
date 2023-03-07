@@ -1,0 +1,14 @@
+commands 
+git innit // se crea el repositorio
+git config user.name // agrega nuestro usuario
+git config user.email// agrega mail
+git add . // agrega todos los archivos
+git status// nos da info del seguimiento de archivos
+git commit -m "messanje" // comitea los cambios y agrega mensaje a ese commit
+git push origin  branch o main// envia los cambios al repositorioremoto
+git clone Urlrepository // descarga por primera y unica vez el repositorio 
+git pull origin  branch o main // sincroniza 
+git branch nombre nueva rama// permite crear una nueva branch
+git checkout nombreBrnch// cambia a otra branch existinte ( si no hay cmabios para commitear)
+git rm archivo// remueve archico
+git rm -r remueve carpeta y los archicos q contiene (vacios)
