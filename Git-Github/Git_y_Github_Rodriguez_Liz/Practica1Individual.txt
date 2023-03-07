@@ -1,0 +1,7 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Linus Torvals para llevar registro de los cambios cuando hay varias versiones y avarios equipos trabajando sobre el mismo proyecto
+b. ¿A quién pertenece actualmente Github y por qué?
+es un Software libre 
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+se puede instalar su version para Desktopgitgit
+
