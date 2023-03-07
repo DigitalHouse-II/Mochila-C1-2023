@@ -1,0 +1,26 @@
+COMANDOS PRINCIPALES
+Clonar un repositorio existente
+$ git clone LINK REPO GIT Ejemplo https://github.com/DigitalHouse-II/Mochila-C1-2023.git
+
+Crear un nuevo repositorio local
+$ git init 
+Agregar todos archivos
+$ git add . 
+Commitearlos
+$ git commit –m “ mensaje”
+Subir los cambios al main/rama
+$ git push origin main/nombre rama
+Traerme los cambios de la rama a la pc local
+$ git pull origin MAIN/NOMBRE RAMA  
+Subir los cambios de la rama 
+$ git push origin MAIN/NOMBRE RAMA 
+Crear nueva rama
+$ git branch
+Cambiar de rama
+$ git checkout NOMBRE DE LA RAMA A LA QUE QUIERO CAMBIAR
+Desvincular un repositorio que ya tengo vinculado con el repositorio remoto (puede ser porque quiero vincularlo con otro o quiero borrar la carpeta)
+$ Git remote remove origin
+Borrar el trackeo desde el git local (desaparece el main)
+$ rm –rf .git
+Mostrar los archivos ocultos
+$ ls -a
