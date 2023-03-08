@@ -1,0 +1,10 @@
+git init - inicia un repositorio local en la carpeta del proyecto
+git config user.name - agrega nuestra identidad al repositorio local
+git config user.email - agrega nuestro email al repositorio local
+git remote add origin - conecta el repositorio local con el repositorio remoto
+git status - para ver el estado de nuestros archivos
+git add . - para agregar todos los archivos al repositorio
+git commit -m "mensaje" - para confirmar que queremos subir de manera definitiva aquellos archivos que agrgamos al coomando
+git push origin main - para enviar los archivos al repositorio remoto
+git pull origin main - para actualizar los archivos de nuestro repositorio local con respecto a los que estan en el repositorio remoto
+git clone - para descargar un dispositivo remoto 
