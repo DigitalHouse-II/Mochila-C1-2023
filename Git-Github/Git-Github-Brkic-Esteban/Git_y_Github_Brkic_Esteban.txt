@@ -1,0 +1,17 @@
+$ git init	---> Crea el repositorio
+$ git add --->	Agrega los archivos
+$ git commit -m “texto explicativo” --->	Comitea los cambios hechos
+$ git push url del repositorio --->	Carga los archivos al repositorio remoto
+$ git push origin nombre de rama Ej:main o master --->	Carga los archivos al repositorio remoto a la rama principal
+$ git clone url del repositorio	---> Crea una copia del repositorio remoto en un nuevo directorio
+$ git pull origin nombre de rama --->	Actualiza el repositorio remoto y local (Cuando se trabaja en equipo)
+$ git status --->	Seguimiento del estado de los archivos
+$ git log --->	Historial de comits
+$ git remote -v	---> Verifica si esta conectado con elrepositorio de github
+$ git remote remove origin --->	Desvincula el repositorio remoto de git
+$ git branch nombre nueva rama --->	Crea una nueva rama
+$ git checkout nombre rama ---> Permite cambiar de rama 	
+$ git config user.name Usuario --->	Agrega nuestra identidad
+$ git config user.email correo --->	Agrega nuestro email
+$ git config global user.name Usuario --->	Agrega nuestra identidad para todos los proyectos de la pc
+$ git config global user.email correo --->	Agrega nuestro email para todos los proyectos de la pc
