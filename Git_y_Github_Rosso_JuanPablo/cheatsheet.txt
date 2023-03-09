@@ -1,0 +1,8 @@
+Git Add (Agrega los archivos al stage para poder guardarlos)
+Git init (Crea repositorio local)
+Git status (muestra el estado de los archivos)
+Git commit (Permite mantener un seguimiento de las modificaciones)
+Mkdir (crea carpetas)
+Touch (crea archivos)
+Git push origin main (sube los cambio realizados al gut hub - nube)
+Git pull origin main (baja los cambios realizados por el equipos al repositorio local)
