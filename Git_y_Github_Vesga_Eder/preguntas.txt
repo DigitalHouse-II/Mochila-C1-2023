@@ -1,0 +1,8 @@
+1 - Su creador es Linus Torvalds y fue creado para posibilitar la ramificacion 
+y el etiquetado como procesos de primera importancia.
+
+2 - GitHub fue comprada por Microsoft en 2018 - De acuerdo a declaraciones Microsof realizo
+la compra de Github como un paso mas en la inclinacion de Microsof para enforcarse todo
+lo posible al desarrollo.
+
+3 - GitHub Desktop.
