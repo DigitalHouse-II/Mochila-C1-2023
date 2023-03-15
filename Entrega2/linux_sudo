@@ -1,0 +1,17 @@
+¿Que es un usuario root en  Linux?
+
+El usuario sudo es un usuario que tiene permisos adicionales, la palabra sudo significa superuser y es utilizado por un usuario “normal” ejecute comandos que por su nivel de acceso requieren un permiso de súper usuario.
+El usuario sudo puede ser utilizado por un usuario “normal” para realizar diferentes tareas como pueden ser instalación de paquetes o repositorios, modificar archivos de configuración sensibles y también administrar la gestión de usuario.
+Para ejecutar un comando como super usuario y tener los permisos del usuario sudo, es necesario antes de cada comando ingresar la palabra sudo, seguido de la contraseña asignada a ese super usuario. 
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Es una cuestión de seguridad del sistema. Si se permite que los usuarios establezcan una contraseña de root durante la instalación, esto puede hacer que sea más fácil para los atacantes obtener acceso no autorizado al sistema. Al limitar el número de cuentas de usuario que tienen acceso directo a los permisos de superusuario, se puede reducir la posibilidad de un ataque y  hacer que el sistema sea más seguro.
+
+¿Cuales son los procesos típicos de Linux?
+Existen tres tipos de procesos:
+El primero es un tipo de proceso normal, pueden ser lanzados desde una terminal o ejecutando una aplicación, corren a nombre de un usuario común, por lo general son programas con los que interactuá directamente un usuario normal, es decir aplicaciones que usa frecuentemente.
+El segundo tipo hace referencia a procesos que por lo general no tiene interacción con el usuario, por lo cual se identifican como procesos que corren en segundo plano, en lugar de utilizar la terminal, en su gran mayoría utilizan puertos.
+Finalmente el tercer proceso es un proceso que ha terminado su ejecución pero aun permanece en la tabla de procesos con estado activo, por lo general esto se debe a problemas de programación, actualizaciones de software o a situaciones no contempladas, por lo general suelen provocar lentitud y inestabilidad en el sistema operativo.
+
+Investigar y establecer una contraseña para el usuario root.
+Para establecer una contraseña de super usuario se utiliza el comando sudo passwd seguido de la contraseña elegida
