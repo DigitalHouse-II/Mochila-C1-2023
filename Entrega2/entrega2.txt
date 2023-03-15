@@ -1,0 +1,24 @@
+ ¿Que es un usuario root en   Linux?
+En Linux, el usuario "root" es el usuario con el más alto nivel de permisos y autoridad en el sistema. Este usuario tiene acceso completo a todos los archivos y directorios en el sistema y puede realizar cualquier acción en el sistema, incluyendo la instalación de software, la configuración de redes, la creación de usuarios y la eliminación de archivos.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+En Ubuntu, por defecto, la cuenta de root viene desactivada y no se permite establecer una contraseña para ella durante la instalación. En su lugar, se utiliza el comando "sudo" para realizar tareas administrativas con permisos de root.
+Esta es una medida de seguridad para evitar que los usuarios accedan al sistema con una cuenta con permisos de root sin saber realmente lo que están haciendo. En su lugar, se recomienda que los usuarios utilicen su cuenta de usuario normal y usen el comando "sudo" para ejecutar tareas administrativas cuando sea necesario.
+¿Cuáles son los procesos típicos de Linux?
+En un sistema operativo Linux, hay muchos procesos en ejecución en todo momento. Algunos de los procesos típicos de Linux incluyen:
+1.	Init: Este proceso es el primer proceso que se ejecuta al arrancar el sistema y es responsable de iniciar todos los demás procesos.
+2.	Systemd: Systemd es un proceso que se encarga de iniciar, detener y administrar otros procesos en el sistema.
+3.	Bash: Es el intérprete de comandos por defecto en Linux y es responsable de aceptar y ejecutar los comandos ingresados por el usuario.
+4.	Cron: Cron es un proceso que se utiliza para programar tareas periódicas en el sistema, como la realización de copias de seguridad regulares.
+5.	SSHD: SSHD es un proceso que se ejecuta en el servidor y permite a los usuarios conectarse y controlar el servidor de forma remota mediante el protocolo SSH.
+6.	Apache: Apache es un servidor web que se utiliza para alojar sitios web y servir contenido web.
+7.	MySQL: MySQL es un sistema de gestión de bases de datos que se utiliza para almacenar y recuperar datos en una amplia variedad de aplicaciones.
+8.	Sendmail: Sendmail es un servidor de correo que se utiliza para enviar correo electrónico.
+Estos son solo algunos de los procesos típicos que se encuentran en un sistema operativo Linux. Hay muchos más procesos que se ejecutan en segundo plano, que son responsables de diversas tareas en el sistema, como la gestión de dispositivos de hardware, la administración de la red, el monitoreo del sistema, la seguridad, entre otros.
+
+¿Cómo identificarlos?
+Hay varias formas de identificar los procesos en un sistema operativo Linux. Aquí hay algunas opciones:
+1.	Comando ps: El comando ps es una herramienta de línea de comandos que se utiliza para mostrar información sobre los procesos que se ejecutan en el sistema. Por ejemplo, escribir "ps -aux" en la terminal mostrará una lista de todos los procesos que se ejecutan en el sistema, junto con información sobre el usuario que los inició, el uso de recursos, entre otros.
+2.	Comando top: El comando top es otra herramienta de línea de comandos que muestra información sobre los procesos en tiempo real. Es útil para monitorear el uso de recursos y encontrar procesos que estén utilizando demasiados recursos del sistema.
+3.	Utilidades gráficas: En un entorno de escritorio Linux, puede utilizar herramientas gráficas como el Monitor del sistema o el Administrador de tareas para ver información sobre los procesos que se ejecutan en el sistema.
+4.	Archivos en /proc: En Linux, cada proceso tiene un directorio asociado en el sistema de archivos virtual /proc. Puede explorar estos directorios para obtener información detallada sobre cada proceso, incluyendo su uso de recursos y otros detalles.
