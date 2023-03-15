@@ -1,0 +1,15 @@
+¿Que es un usuario root en Linux?
+    En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador. El usuario root puede hacer muchas cosas que un usuario común no puede, tales como cambiar el dueño o permisos de archivos y enlazar a puertos de numeración pequeña. No es recomendable utilizar el superusuario root para una simple sesión de uso habitual, ya que pone en riesgo el sistema al garantizar acceso privilegiado a cada programa en ejecución. Es preferible utilizar una cuenta de usuario normal y utilizar el comando su para acceder a los privilegios de Root en caso de ser necesario.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+    Se supone que no debemos añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo sudo para manejar eso. En su lugar, se añaden usuarios a la cuenta admin. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando sudo command.
+
+¿Cuáles son los procesos típicos de Linux?
+    Podríamos definir a los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas en LINUX se los puede clasificar en tres grandes categorías: Procesos Normales, Procesos Daemon y Procesos Zombie.
+
+¿Cómo identificarlos?
+    Los procesos de tipo normal generalmente son lanzados en una terminal (tty) Y corren a nombre de un usuario. Osea, son los programas que utiliza el usuario generalmente y se encuentran conectados a una terminal. El programa aparecerá el pantalla y interactuara con el usuario.
+
+    Los procesos de tipo Daemon corren a nombre de un usuario y no tienen salida directa por una terminal, es decir corren en 2º plano. Generalmente los conocemos como servicios. La gran mayoría de ellos en vez de usar la terminal para escuchar un requerimiento lo hacen a través de un puerto.
+
+    En sistemas operativos Unix un proceso zombie es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos. Esto se debe a que dicho proceso (proceso hijo) no recibió una señal por parte del proceso de nivel superior (proceso padre) que lo creó informándole que su vida útil ha terminado. Se pueden deber a errores de programación, a situaciones no contempladas por el programador y generalmente provocan lentitud y/o inestabilidad en el Sistema.
