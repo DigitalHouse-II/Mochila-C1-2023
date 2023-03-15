@@ -1,0 +1,14 @@
+El usuario root, o superusuario, es una cuenta de usuario especial en sistemas operativos basados en UNIX que tiene privilegios sin restricciones de lectura y escritura en todas las áreas del sistema de archivos en OS X 10.10 o posterior.
+
+De forma predeterminada, la contraseña de la cuenta raíz está bloqueada en Ubuntu. Esto significa que no puede iniciar sesión como root directamente o usar el comando su para convertirse en usuario root. Sin embargo, dado que la cuenta raíz existe físicamente, aún es posible ejecutar programas con privilegios de nivel raíz. Aquí es donde entra sudo: permite a los usuarios autorizados ejecutar ciertos programas como root sin tener que conocer la contraseña de root. Esto significa que en la terminal debe usar sudo para los comandos que requieren privilegios de root; simplemente anteponga sudo a todos los comandos que necesite ejecutar como root.
+
+Podríamos definir a los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas en LINUX se los puede clasificar en tres grandes categorías:
+Procesos Normales.
+Procesos Daemon.
+Procesos Zombie.
+
+Los procesos de tipo normal generalmente son lanzados en una terminal (tty) Y corren a nombre de un usuario. Osea, son los programas que utiliza el usuario generalmente y se encuentran conectados a una terminal. El programa aparecerá el pantalla y interactuara con el usuario.
+
+Los procesos de tipo Daemon corren a nombre de un usuario y no tienen salida directa por una terminal, es decir corren en 2º plano. Generalmente los conocemos como servicios. La gran mayoría de ellos en vez de usar la terminal para escuchar un requerimiento lo hacen a través de un puerto.
+
+En sistemas operativos Unix un proceso zombie es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos. Esto se debe a que dicho proceso (proceso hijo) no recibió una señal por parte del proceso de nivel superior (proceso padre) que lo creó informándole que su vida útil ha terminado. Se pueden deber a errores de programación, a situaciones no contempladas por el programador y generalmente provocan lentitud y/o inestabilidad en el Sistema.
