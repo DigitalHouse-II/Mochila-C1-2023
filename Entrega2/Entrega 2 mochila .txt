@@ -1,0 +1,31 @@
+
+ - Que es un usuario root en linux
+
+El usuario root es un usuario que tiene mayor nivel de privilegio del sistema. Tiene acceso completo a todas las carpetas, recursos del sistemas, archivos y puede realizar cualquier acción, tal como, crear, modificar y eliminar archivos y programas, insalación de estos y configuración 
+
+- Porque ubunto no deja establecer contraseña durante la instalación
+
+nNo deja establecer ya que puede permitir que un usuario no autorizado acceda al sistema o que un usuario autorizado realice acciones peligrosas para el sistema. Se estalece esta politica de seguridad para evitar riesgos en la seguridad. 
+
+- Cuales son los procesos tipicos de ubuntu y como identificarlos 
+
+> systemd: systemd es el proceso que se encarga de iniciar el sistema y gestionar los servicios. Para identificar los procesos relacionados con systemd. En la terminal: ps -p 1 -o comm=. Este comando te mostrará el nombre del proceso systemd.
+NetworkManager: NetworkManager es el proceso encargado de gestionar la conectividad de red en Ubuntu. Para identificar los procesos relacionados con NetworkManager, puedes ejecutar el siguiente comando en la terminal: ps -aux | grep NetworkManager. Este comando te mostrará los procesos relacionados con NetworkManager.
+
+> Xorg: Xorg es el servidor de visualización de Ubuntu. Es el proceso encargado de mostrar la interfaz gráfica de usuario en el escritorio. Para identificar los procesos relacionados con Xorg, puedes ejecutar el siguiente comando en la terminal: ps -aux | grep Xorg. Este comando te mostrará los procesos relacionados con Xorg.
+
+> dbus-daemon: dbus-daemon es el proceso encargado de la comunicación entre los diferentes procesos del sistema operativo. Para identificar los procesos relacionados con dbus-daemon, puedes ejecutar el siguiente comando en la terminal: ps -aux | grep dbus-daemon. Este comando te mostrará los procesos relacionados con dbus-daemon.
+
+> cron: cron es el proceso encargado de programar y ejecutar tareas automatizadas en el sistema operativo. Para identificar los procesos relacionados con cron, puedes ejecutar el siguiente comando en la terminal: ps -aux | grep cron. Este comando te mostrará los procesos relacionados con cron.
+
+> Apache: Apache es un servidor web utilizado en Ubuntu para alojar sitios web. Para identificar los procesos relacionados con Apache, puedes ejecutar el siguiente comando en la terminal: ps -aux | grep apache. Este comando te mostrará los procesos relacionados con Apache.
+
+
+- Establecer una contraseña para el usuario root
+
+Se puede estableer una contraseña con el comando: sudo passwd root . Luego te pedirá que ingreses la contraseña del usuario con privilegios de administrador actual. Después de ingresar la contraseña, se te pedirá que ingreses y confirmes una nueva contraseña para el usuario root.
+
+
+
+
+
