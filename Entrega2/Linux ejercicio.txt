@@ -1,0 +1,15 @@
+﻿* ¿Que es un usuario root en   Linux?
+En Linux, el usuario root es el usuario con los más altos privilegios del sistema y tiene acceso completo a todos los archivos y configuraciones del sistema. El usuario root es similar a un administrador de sistemas en otros sistemas operativos.
+Cuando un usuario inicia sesión como root, puede realizar tareas que normalmente están restringidas a otros usuarios, como instalar y desinstalar software, editar archivos de configuración del sistema y realizar cambios en la configuración de red. 
+
+
+* ¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Ubuntu por lo general no tiene contraseña predeterminada y por default excluye el acceso como usuario root. Pero al usuario que instaló el sistema operativo le da privilegios de administrador. Y por lo general cuando pide contraseña de administrador es la contraseña de este usuario. 
+
+
+* ¿Cuáles son los procesos típicos de Linux?
+Durante la ejecución, un proceso cambia de un estado a otro dependiendo de su entorno/circunstancias. En Linux, un proceso tiene los siguientes estados posibles:
+En ejecución: aquí está ejecutándose (es el proceso actual en el sistema) o está listo para ejecutarse (está esperando ser asignado a una de las CPU).
+En espera: en este estado, un proceso está esperando que ocurra un evento o un recurso del sistema. Además, el kernel también diferencia entre dos tipos de procesos de espera; Los procesos de espera interrumpibles - pueden ser interrumpidos por señales y los procesos de espera ininterrumpida - están esperando directamente en las condiciones del hardware y no pueden ser interrumpidos por ningún evento/señal.
+Detenido: en este estado, un proceso se detuvo, generalmente al recibir una señal. Por ejemplo, un proceso que se está depurando.
+Zombi: aquí, un proceso está muerto, se ha detenido pero todavía tiene una entrada en la tabla de procesos.
