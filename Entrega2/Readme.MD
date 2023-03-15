@@ -2,11 +2,11 @@
 
 ### ¿Que es un usuario root en Linux?
 
-El usuario es uno de los dos tipos de usuarios en Linux. Root en particular Es el usuario administrador del sistema. Tiene los permisos necesarios para realizar cualquier tipo de tarea (instalar y desinstalar programas, modificar la configuración del sistema, cambiar permisos de archivos, etc.)
+El usuario root es uno de los dos tipos de usuarios en Linux. Root en particular Es el usuario administrador del sistema. Tiene los permisos necesarios para realizar cualquier tipo de tarea (instalar y desinstalar programas, modificar la configuración del sistema, cambiar permisos de archivos, etc).
 
 ### ¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
 
-De forma predeterminada, en Ubuntu, el usuario root no tiene una contraseña establecida. Esto es debido a que el enfoque recomendado es utilizar el comando sudo (sudo permite a los “usuarios normales” ejecutar comandos con privilegios de root o superusuario) para ejecutar comandos con privilegios de root.
+De forma predeterminada, en Ubuntu, el usuario root no tiene una contraseña establecida. Esto se debe a que el enfoque recomendado es utilizar el comando sudo (sudo permite a los “usuarios normales” ejecutar comandos con privilegios de root o superusuario) para ejecutar comandos con privilegios de root.
 
 ### ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?
 
@@ -14,5 +14,5 @@ Los procesos típicos de Linux son aquellos programas que se ejecutan en segundo
 
 Para poder identificarlos existen varios comandos:
 
-- _ps_ Muestra información sobre los procesos que se están ejecutando en el sistema operativo.
-- _top_ El comando top que hace la misma función que el comando ps pero mantiene el listado de procesos monitoreando es decir los muestra en tiempo real.
+- _ps_: Muestra información sobre los procesos que se están ejecutando en el sistema operativo.
+- _top_: El comando top que hace la misma función que el comando ps pero mantiene el listado de procesos monitoreando es decir los muestra en tiempo real.
