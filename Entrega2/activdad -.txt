@@ -1,0 +1,30 @@
+Que es el usuario ROOT?    
+    El usuario root, o superusuario, es una cuenta de usuario especial en sistemas 
+    operativos basados en UNIX que tiene privilegios sin restricciones de lectura y 
+    escritura en todas las áreas del sistema de archivos.
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+    De forma predeterminada, en Ubuntu, la cuenta raíz no tiene una 
+    contraseña establecida. El enfoque recomendado es utilizar el comando sudo para 
+    ejecutar comandos con privilegios de nivel raíz.
+¿Cuáles son los procesos típicos de Linux?
+    Un proceso se refiere a un programa en ejecución; es una instancia en ejecución
+    de un programa. Se compone de la instrucción del programa, los datos leídos de 
+    archivos, otros programas o la entrada de un usuario del sistema.
+        Existen fundamentalmente dos tipos de procesos en Linux:
+* Procesos en primer plano (también denominados procesos interactivos): 
+estos se inicializan y controlan a través de una sesión de terminal. En otras palabras, 
+tiene que haber un usuario conectado al sistema para iniciar dichos procesos; 
+no se han iniciado automáticamente como parte de las funciones/servicios del sistema.
+* Procesos en segundo plano (también denominados procesos automáticos/no interactivos): 
+son procesos que no están conectados a una terminal; no esperan ninguna entrada del 
+usuario.
+¿Cómo identificarlos?
+    Debido a que Linux es un sistema multiusuario, lo que significa que diferentes
+    usuarios pueden ejecutar varios programas en el sistema, cada instancia en ejecución
+    de un programa debe ser identificada de forma única por el kernel.
+    Y un programa se identifica por su ID de proceso (PID), así como su ID de proceso 
+    principal (PPID), por lo tanto, los procesos se pueden clasificar en:
+*Procesos principales: estos son procesos que crean otros procesos durante el tiempo
+de ejecución.
+*Procesos secundarios: estos procesos son creados por otros procesos durante el tiempo
+ de ejecución.
