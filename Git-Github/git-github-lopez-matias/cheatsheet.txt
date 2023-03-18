@@ -1,0 +1,19 @@
+git init: inicializa un nuevo repositorio Git en una carpeta vacía o existente.
+
+git add: agrega archivos al área de preparación (staging) para ser incluidos en el siguiente commit.
+
+git commit: registra un conjunto de cambios y crea un nuevo commit en el historial del repositorio.
+
+git status: muestra el estado actual del repositorio, incluyendo los archivos que han sido modificados, agregados o eliminados.
+
+git branch: muestra una lista de ramas (branches) en el repositorio y permite crear nuevas ramas.
+
+git checkout: cambia entre diferentes ramas y puntos de la historia del repositorio.
+
+git merge: combina cambios de dos o más ramas en el repositorio.
+
+git pull: actualiza el repositorio local con los cambios más recientes del repositorio remoto.
+
+git push: envía los cambios locales al repositorio remoto.
+
+git clone: crea una copia completa de un repositorio remoto en una carpeta local.
