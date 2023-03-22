@@ -1,0 +1,12 @@
+Porque un lenguaje de programacion puede usarse en algunos SO y en otros no?
+la compatibilidad de un lenguaje de programación depende de muchos factores, incluyendo el sistema operativo, la arquitectura de hardware, las bibliotecas y frameworks disponibles, y la comunidad y el ecosistema de herramientas y recursos.
+
+Que tipo de maquina virtual es la VirtualBOx?
+
+
+Es una maquina virtual de Sistema.
+
+
+Si tengo mas una maquina virtual instalada y esta se rompe, esto afecta a las demas?
+
+no afecta, ya que estan montadas sobre el Hypervisor y cada una es una maquina independiente de la otra.
