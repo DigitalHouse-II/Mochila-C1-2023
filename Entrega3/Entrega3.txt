@@ -1,0 +1,11 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Existen varios factores que influyen en la compatibilidad de un lenguaje de programación con diferentes sistemas operativos, como las diferencias en la arquitectura de hardware, la disponibilidad de bibliotecas y herramientas de desarrollo específicas para cada plataforma, y las políticas y regulaciones de cada sistema operativo en cuanto a la seguridad y el acceso a recursos del sistema.
+
+¿Qué tipo de máquina virtual soporta virtualBox?
+VirtualBox es compatible con varios tipos de máquinas virtuales, incluyendo máquinas virtuales de tipo 1 (bare-metal) y de tipo 2 (hosted). Las máquinas virtuales de tipo 1 se ejecutan directamente en el hardware del servidor sin la necesidad de un sistema operativo host adicional, mientras que las máquinas virtuales de tipo 2 se ejecutan como aplicaciones en un sistema operativo host.
+
+¿Qué función cumple el hypervisor en la virtualización?
+El hypervisor es el componente central de una plataforma de virtualización y es responsable de gestionar y controlar el acceso de las máquinas virtuales a los recursos físicos del sistema, incluyendo el procesador, la memoria, el almacenamiento y los dispositivos de red. El hypervisor también proporciona una capa de aislamiento entre las máquinas virtuales y el sistema host para garantizar la seguridad y la estabilidad del entorno virtual.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+En general, una máquina virtual que se rompe no afectará a las demás máquinas virtuales que se ejecutan en el mismo sistema, ya que cada máquina virtual está aislada del resto y utiliza sus propios recursos virtuales. Sin embargo, si la máquina virtual que se rompe comparte recursos físicos con otras máquinas virtuales (por ejemplo, si comparten un disco virtual o una red física), es posible que las demás máquinas virtuales experimenten un rendimiento reducido o interrupciones breves mientras se resuelve el problema.
