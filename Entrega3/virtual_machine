@@ -1,0 +1,16 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+Uno de los motivos es la arquitectura del procesador ya que un lenguaje de programacion esta diseñado para trabajar con un tipo particular de arquitectura de procesador, por lo tanto pueden existir problemas de compatibilidad. Otro de los motivos pueden ser las dependencias de bibliotecas ya que algunos lenguajes de programacion pueden utilizarse en los sistemas operativos que tengan las bibliotecas necesarias. Otro motivo puede ser que las caracteristicas de determinado sistema operativo no tengan ciertas funcionalidades especificas para la correcta implementacion del lenguaje en si.
+
+¿Qué tipo de máquina virtual es virtualBox?
+VirtualBox es una maquina virtual de tipo 2 mayormente conocida como Hypervisor de alojamiento, Esto quiere decir que virtualBox se ejecuta como una aplicacion mas, en un sistema operativo anfitrion(el sistema operativo base que tengamos en nuestra maquina) y permite la creacion y  ejecucion de diversos sistemas operativos que van a tener la categoria de Guest (invitados) en nuestra maquina fisica.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+Una falla en una máquina virtual en sí misma no debería afectar directamente a otras máquinas virtuales en el mismo sistema anfitrión, es posible que haya impactos indirectos en el rendimiento, la red o el almacenamiento que podrían afectar a otras máquinas virtuales.
+Disminución del rendimiento: Si una máquina virtual utiliza una gran cantidad de recursos del sistema y no los libera correctamente, esto podría reducir el rendimiento de otras máquinas virtuales que se ejecutan en el mismo sistema anfitrión.
+Problemas de red: Si una máquina virtual se rompe y causa problemas en la red esto podría afectar a otras máquinas virtuales que dependen de la misma infraestructura de red.
+Problemas de almacenamiento: Si una máquina virtual experimenta una falla en el almacenamiento, esto podría afectar a otras máquinas virtuales que dependen del mismo almacenamiento.
+
