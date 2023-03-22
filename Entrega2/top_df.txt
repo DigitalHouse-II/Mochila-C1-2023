@@ -1,0 +1,4 @@
+Mochila 2
+
+Comando df: con este comando se puede ver el espacio del disco en el sistema. (seria el system)
+Comando top:  Muestra procesos que corren en el momento en la maquina virtual, resumen el uso de los recursos, da informacion entre otras de la CPU y tambien del uso de memoria. (seria el task manager) 
