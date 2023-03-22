@@ -1,0 +1,6 @@
+1- La compatibilidad de un lenguaje de programación con un sistema operativo depende de la disponibilidad de un compilador o intérprete para ese sistema. Ademas, las diferencias en arquitectura de la CPU, la disponibilidad de bibliotecas y frameworks específicos y las politicas de seguridad del sistema operativo también puede afectar la capacidad del lenguaje para ser utilizado en ese SO.
+
+2- Es una maquina virtual que se ejecuta como una aplicación en un sistema operativo anfitrion y permite crear y ejecutar múltiples SO invitados dentro de él.
+
+3- No deberia afectar a las demas, ya que cada maquina virtual se ejecuta en un entorno aislado y separado del SO anfitrión y de las otras máquinas virtuales.
+
