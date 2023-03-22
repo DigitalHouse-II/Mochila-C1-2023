@@ -1,0 +1,14 @@
+
+## Actividad, investigación y debate 23/3
+
+### ¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+Depende del lenguaje de programación de si es interpretado virtualizado o compilado, hablando de los dos primeros siempre y cuando exista un intérprete o máquina virtual que pueda funcionar en el sistema operativo host el programa se podrá por lo menos ejecutar en el mismo. Ahora en los lenguajes de programación compilados no tenemos esa “capa” extra que se comunica con el sistema operativo host, por lo que se deberán tener en cuenta el caso específico de en que sistema operativo queremos ejecutar el programa con sus respectivos recaudos al momento de compilar.
+
+### ¿Qué tipo de máquina virtual es virtual Box?
+
+En general existen dos tipos de máquinas virtuales, las de procesos las cuales son capaces de virtualizar proceso o servicios, pero no un sistema operativo entero y las de sistemas las cuales si pueden ejecutar un sistema entero, teniendo esto en cuenta virtualBox es una máquina virtual de sistema.
+
+### Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿Por qué?
+
+Dado que estas máquinas virtuales están encapsuladas, si una se rompe no afectaría a las demás.
