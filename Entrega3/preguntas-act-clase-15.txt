@@ -1,0 +1,24 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+En general, un lenguaje de programación puede utilizarse en cualquier sistema operativo que tenga un compilador o un intérprete disponible para el lenguaje de programación. Sin embargo, el hecho de que un lenguaje de programación pueda utilizarse en un sistema operativo no significa necesariamente que el código sea compatible con otros sistemas operativos.
+
+Además, algunos lenguajes de programación están diseñados específicamente para trabajar en ciertos sistemas operativos o plataformas, y no son compatibles con otros sistemas operativos. Por ejemplo, el lenguaje Swift de Apple fue diseñado para trabajar en los sistemas operativos macOS e iOS y no es compatible de manera nativa con otros sistemas operativos.
+
+Por otro lado, algunos lenguajes de programación son compatibles con múltiples sistemas operativos debido a su portabilidad y capacidad de adaptarse a diferentes plataformas. Ejemplos de estos lenguajes incluyen Python, Java, C y C++, entre otros.
+
+En resumen, la compatibilidad de un lenguaje de programación con un sistema operativo depende de múltiples factores y puede variar dependiendo del lenguaje y del sistema operativo en cuestión.
+
+¿Qué tipo de máquina virtual soporta virtualBox?
+
+Los sistemas operativos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
+
