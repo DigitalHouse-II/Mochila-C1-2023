@@ -1,0 +1,11 @@
+Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y otros
+no?
+Debido a que los lenguajes de programacion pasan a lenguaje ensamblador, y dependiendo del 
+SO la interpretacion de este puede ser diferente.
+
+Que tipo de maquina virtual es VirtualBox?
+Es un software de virtualizacion para SO con arquitecturas x86/amd64
+
+Si tengo mas de una maquina virtual instalada, y una se rompe, Esto afecta las demas ?por que ?
+No afecta a las otras debido a que los SO se inician en instancias independientes unas de otras
+
