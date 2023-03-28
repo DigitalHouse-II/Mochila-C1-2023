@@ -1,0 +1,6 @@
+1 - Un lenguaje de programación puede no funcionar en otros sistemas operativos porque fue creado para aprovechar las características y arquitecturas de dicho sistema. Depende de como se diseñó el lenguaje originalmente.
+
+2- VirtualBox es una máquina virtual tipo hypervisor de nivel de host. Esta se ejecuta sobre un sistema operativo y permite crear varias máquinas virtuales.
+
+3- Si una máquina virtual se rompe esto no afecta a las demás ya que estas se ejecutan individualmente. 
+
