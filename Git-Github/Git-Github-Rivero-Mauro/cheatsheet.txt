@@ -1,0 +1,32 @@
+Clonar un repositorio remoto:
+$ git clone URL
+
+Crear un repositorio local:
+$ git init
+
+Crear una rama para no trabajar sobre el proyecto estable:
+$ git branch nombreRama
+
+Entrar a la rama:
+$ git checkout nombreRama
+
+Agregar archivos y cambios:
+$ git add (se puede usar punto para agregar todos los archivos o el nombre del archivo a agregar)
+
+Confirma y guarda los cambios realizados con git add, deja todo preparado para hacer el push remoto:
+$ git commit -m "Comentario sobre el commit"
+
+Ver historial de commits:
+$ git log 
+
+Descargar los cambios desde el directorio remoto:
+$ git pull origin main
+
+Subir los cambios a GitHub:
+$ git push origin main
+
+Muestra el estado del directorio y sus archivos:
+$ git status
+
+Vincula el directorio remoto con el local:
+$ git add remote origin URL
