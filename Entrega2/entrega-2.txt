@@ -1,0 +1,28 @@
+﻿que es un usuario root en linux?
+	
+
+	El usuario root es el usuario administrador en sistemas operativos basados en Linux. Este usuario tiene privilegios completos en el sistema y puede realizar cualquier acción, incluyendo la instalación de software, la modificación de configuraciones de sistema, y el acceso a cualquier archivo o directorio. Por lo tanto, se recomienda usarlo con precaución y solo cuando sea necesario.
+	
+
+	
+
+
+
+	
+
+	¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+	
+
+	Ubuntu no te permite establecer una contraseña para el usuario root durante la instalación porque el sistema utiliza la autenticación de contraseña para obtener acceso a los privilegios del usuario root. En su lugar, Ubuntu te pide que crees una cuenta de usuario regular con privilegios limitados y utiliza el comando "sudo" para otorgar temporalmente los privilegios de root a usuarios regulares que necesiten realizar acciones administrativas en el sistema.
+	
+
+	
+
+
+
+	
+
+	¿Cuáles son los procesos típicos de Linux? ¿Cómo identificarlos?
+	
+
+	Los procesos típicos de Linux incluyen aplicaciones de usuario, servicios del sistema, tareas programadas y procesos del kernel. Puedes identificarlos utilizando el comando "ps" en la terminal, que muestra una lista de procesos activos en el sistema. También puedes usar herramientas como "top" o "htop" para visualizar los procesos en tiempo real, su uso de recursos y otros detalles.
