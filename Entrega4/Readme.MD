@@ -1,1 +1,1 @@
-## Introducción a la Informática
+## Ejercitacion de armado estructurado
