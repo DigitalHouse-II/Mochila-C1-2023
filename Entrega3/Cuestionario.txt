@@ -1,0 +1,14 @@
+1- Por que un lenguaje de programacion solo puede utilizarse en algnos sistemas operativos y en otros no?
+
+Para que un lenguaje de programacion pueda usarse en un sistema dado, debe de haber un compilador capaz de interpretarlo. Es por esto que un lenguaje b puede que no se utilice en un OS z, aun asi, lo que no funcionaria seria el programa/aplicacion, pero se podria leer el lenguaje con cualquier editor de texto.
+
+2- Que tipo de maquina virtual es virtualBox?
+
+VirtualBox es un software de virtualizacion multiplataforma de codigo abierto. Permite instalar distintos OS (guests) que se guardan en el OS anfitrion mediante contenedores llamados Virtual Disk Image.
+
+3- Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? Por que?
+
+No, no deberia romperse el resto de maquinas virtuales ya que se utilizan contenedores independientes. El problema se daria si el OS anfitrion se dana, o el hardware deja de funcionar.
+
+
+Disculpas por las faltas ortograficas, sobre todo tildes y signos, estoy usando vim en la maquina virtual para poder subir el archivo desde VB y no encuentro algunas cosas en el teclado.
