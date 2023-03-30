@@ -11,6 +11,8 @@ remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 fatal: Authentication failed for 'https://github.com/DigitalHouse-II/Mochila-C1-2023.git/'
 
+fix con token.
+
 
 1. Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
 2. VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en que necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host.
