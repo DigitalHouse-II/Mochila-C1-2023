@@ -10,5 +10,4 @@ VirtualBox es un software de virtualizacion multiplataforma de codigo abierto. P
 
 No, no deberia romperse el resto de maquinas virtuales ya que se utilizan contenedores independientes. El problema se daria si el OS anfitrion se dana, o el hardware deja de funcionar.
 
-
-Disculpas por las faltas ortograficas, sobre todo tildes y signos, estoy usando vim en la maquina virtual para poder subir el archivo desde VB y no encuentro algunas cosas en el teclado.
+--Disculpas por las faltas ortograficas, sobre todo tildes y signos, estoy usando vim en la maquina virtual para poder subir el archivo desde VB y no encuentro algunas cosas en el teclado.
