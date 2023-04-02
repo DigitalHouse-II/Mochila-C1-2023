@@ -1,0 +1,35 @@
+Pregunta 1:
+
+Un lenguaje de programación puede tener limitaciones en cuanto a su disponibilidad en diferentes sistemas operativos debido a varios factores, algunos de los cuales incluyen:
+
+Dependencia del sistema operativo: algunos lenguajes de programación pueden estar diseñados específicamente para funcionar en un sistema operativo en particular y aprovechar las características o capacidades exclusivas de ese sistema operativo. Esto puede hacer que el lenguaje sea difícil o imposible de utilizar en otros sistemas operativos que no ofrecen esas mismas capacidades o características.
+
+Disponibilidad de compiladores o intérpretes: cada lenguaje de programación requiere de una herramienta que lo interprete o lo compile, lo que puede variar en función del sistema operativo. Si no hay un compilador o intérprete disponible para un lenguaje de programación en particular en un sistema operativo específico, puede ser difícil o imposible utilizar ese lenguaje de programación en ese sistema operativo.
+
+Restricciones de plataforma cruzada: algunos lenguajes de programación están diseñados para ser "plataforma cruzada" y funcionar en múltiples sistemas operativos, pero aún pueden tener restricciones en cuanto a qué características o bibliotecas están disponibles en diferentes plataformas. Por lo tanto, algunas funciones o características pueden no estar disponibles en todos los sistemas operativos, lo que puede limitar el uso del lenguaje.
+
+En general, la compatibilidad de un lenguaje de programación con diferentes sistemas operativos depende de varios factores, incluidos los objetivos del lenguaje, su diseño, la disponibilidad de herramientas y recursos, y las limitaciones de las diferentes plataformas.
+
+
+Pregunta 2:
+
+VirtualBox es una plataforma de virtualización que puede ejecutar una variedad de sistemas operativos como máquinas virtuales en un sistema anfitrión. VirtualBox admite una amplia variedad de sistemas operativos, que incluyen:
+
+Windows (XP, Vista, 7, 8, 10)
+Linux (varias distribuciones)
+macOS
+Solaris
+FreeBSD
+OpenBSD
+OS/2
+Además, VirtualBox también admite máquinas virtuales de 64 bits y máquinas virtuales con múltiples núcleos de CPU.
+
+Pregunta 3:
+
+El hypervisor (también conocido como VMM, Virtual Machine Monitor) es un software que se ejecuta en una máquina física y permite la virtualización. La función principal del hypervisor es crear y administrar múltiples máquinas virtuales (VM) en un sistema físico compartido, permitiendo que múltiples sistemas operativos y aplicaciones se ejecuten de forma aislada y segura en un solo servidor físico.
+
+El hypervisor actúa como un intermediario entre los sistemas operativos invitados (VM) y el hardware físico del servidor. Cada VM se ejecuta en su propio espacio aislado, con su propia configuración de hardware virtual, que incluye CPU, memoria, almacenamiento y dispositivos de red. El hypervisor asigna recursos físicos a cada VM y gestiona el acceso a los recurso.
+
+Pregunta 4:
+
+Si las máquinas virtuales están correctamente aisladas y no comparten recursos, un fallo en una máquina virtual no debería afectar a las demás. Pero si las máquinas virtuales comparten recursos, un fallo en una de ellas puede tener un impacto en las demás. Es importante asegurarse de que cada máquina virtual tenga suficientes recursos asignados y de que estén configuradas de forma segura e independiente para minimizar cualquier impacto negativo en el sistema en su conjunto.
