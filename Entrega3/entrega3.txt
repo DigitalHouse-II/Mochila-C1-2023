@@ -1,0 +1,7 @@
+Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+Algunos lenguajes de programación tienen dependencias específicas del sistema operativo y por esa razón ciertas partes del lenguaje estan diseñadas  para interactuar con el sistema operativo subyacente de manera particular
+Qué tipo de máquina virtual es virtual Box?
+Es una máquina virtual de tipo 2, se ejecuta en un sistema operativo anfitrion como una aplicación y permite la ceación y ejecución de múltiples sistemas operativos invitados dentro de esa aplicación
+Si tengo más de una máquina virtual instalada, y una se rompe, esto afecta a las demás? por qué?
+Si una máquina virtual se rompe no debería afectar a las otras ya que se ejecutan de forma individual
+
