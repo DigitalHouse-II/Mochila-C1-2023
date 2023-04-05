@@ -1,0 +1,3 @@
+1.Porque el lenguaje de programacion se ejecuta dentro del sistema operativo en lenguajes ensambladores, el cual depende de cada arquiterctur a del procesador y la interpretacion que tenga el sistema operativo.
+2.VirtualBox es un software de visualizacion
+3.No fallaria ya que ejecutan dentro de un mismo servidor pero de forma separada
