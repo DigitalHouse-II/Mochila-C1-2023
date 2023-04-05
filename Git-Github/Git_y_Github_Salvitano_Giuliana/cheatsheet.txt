@@ -1,0 +1,16 @@
+git branch -   listar ramas
+git branch "nombre" -   crear ramas
+git checkout "nombre" -   ingresar a esa rama
+git remote -v -   ver lo vinculado
+git config user.name Nombre -   Configurar autor
+git config user.email Email -   configurar el email
+git checkout -   volver al primer commit
+git log -   ver los commits
+git remote remove <name> -   desvincular un repositorio.
+git init- Inicializa repositorio
+git status - muestra el estado actual de los archivos del repositorio.
+git add . - agrega los cambios realizados
+git commit -m "agun mensaje" - prepara un paquete con todos los cambios realizados junto a un mensaje informativo
+git push - envía los cambios al repositorio local
+git push origin main - envía los cambios al repositorio remoto
+git pull - descarga los cambios desde el repositorio
