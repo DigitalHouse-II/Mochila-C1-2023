@@ -1,6 +1,6 @@
 ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
 
-Existen varios motivos por los que un lenguaje de programación puede ser compatible con algunos sistemas operativos y no con otros. A continuación, te menciono algunos de los motivos más comunes:
+Existen varios motivos por los que un lenguaje de programación puede ser compatible con algunos sistemas operativos y no con otros. Algunos son:
 
 - Diferencias en la arquitectura de hardware: Cada sistema operativo se ejecuta en una arquitectura de hardware específica, y los lenguajes de programación suelen ser compilados o interpretados para una plataforma de hardware particular. Por lo tanto, un programa escrito en un lenguaje de programación puede ser compatible solo con los sistemas operativos que se ejecutan en esa arquitectura específica de hardware.
 
