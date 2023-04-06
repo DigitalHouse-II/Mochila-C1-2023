@@ -16,3 +16,5 @@ El hypervisor, o Monitor de Máquina Virtual, es una capa de software que se enc
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
 
 No, porque cada máqiuna virtual es independiente una de la otra, y a su vez, independiente del host (al márgen de que el host le suministra recursos de hardware para utilizar)
+
+Editado desde la VM
