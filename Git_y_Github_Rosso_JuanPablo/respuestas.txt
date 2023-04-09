@@ -1,3 +1,8 @@
-1 Despues las respondo!
-2
-3
+1 ¿Quien invento el sistema de control de versiones Git y por que?
+Al sistema de control de versiones lo invento Linus Torvalds con el objetivo de posibilitar la ramificacion y el etiquetado como procesos prioritarios, y las operaciones que afectan a las ramas y a las etiquetas como la fusion o la reversion.
+
+2 ¿A quien pertenece actualmente Git y por que?
+GIt actualmente le pertenece a Microsoft desde Junio de 2018, con el fin de apostar al Open Sourse y adueñarse de la comunidad de desarroladores mas importantes del mundo.
+
+3 ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, se puede descargar la App de Github para Desktop.
