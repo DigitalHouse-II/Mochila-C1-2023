@@ -1,0 +1,4 @@
+A - El sistema de control de versiones Git fue creado por Linus Torvalds.
+Git fue diseñado para ser rápido y fácil de usar. Además, quería un sistema de control de versiones que permitiera trabajar en diferentes ramas y fusionar fácilmente sus cambios remotamente.
+B - Actualmente, GitHub es propiedad de Microsoft Corporation, y su adquisición ha sido una estrategia clave para que Microsoft pueda expandir su alcance y posicionamiento en el mundo de la tecnología.
+C - Hay muchas opciones disponibles: Interfaz web de GitHub, Visual Code, y otras aplicaciones de escritorio
