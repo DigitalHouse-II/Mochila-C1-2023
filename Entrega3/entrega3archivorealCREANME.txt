@@ -1,0 +1,5 @@
+1)Los lenguajes de programacion solo pueden utilizarse en algunos sistemas operativos debido a que al ser como un idioma distinto, 
+el sistema operativo debe estar preparado para poder "entenderlo" y procesarlo.
+2)Virtualbox soporta sistemas operativos.
+3)El hipervisor asigna los recursos del sistema operativo anfitrion ademas de aislar los recursos que estas utilizan.
+4)No afecta a las demas porque estan aisladas una de la otra.
