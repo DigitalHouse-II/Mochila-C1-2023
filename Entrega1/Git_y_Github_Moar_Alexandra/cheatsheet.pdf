@@ -1,0 +1,6 @@
+git innit - crea el repositorio local
+git remote add origin (master o branch name) - vilcula con el repositorio remoto
+git add . - agrega TODOS los archivos, no es necesario entonces especificar el nombre
+git commit -m "mensaje" - commitea los cambios hechos, es un punto en la linea de tiempo
+git push oprigin (master o branch) - envia los cambios al repositorio remoto
+git status - vemos que archivos se encuentran en seguimiento
