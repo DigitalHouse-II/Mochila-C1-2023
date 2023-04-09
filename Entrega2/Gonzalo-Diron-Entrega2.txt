@@ -1,0 +1,3 @@
+El usuario root o superusuario es un usuario que tiene permisos ilimitados de lectura y escritura. Los procesos tipicos en linux se dividen en:
+Los procesos naturales(corren a nombre del usuario), los procesos daemon(corren en segundo plano a nombre de un usuario y se los ve como un servicio)
+y los procesos zombie(Es un proceso que completo su ejecucion pero aun esta activo en la tabla de procesos).
