@@ -1,0 +1,16 @@
+EJERCICO 15. ENTREGA3
+
+
+1. ¿Por que un lenguaje de programacion solo puede 
+utilizarse en algunos 
+sistemas operativos y en otros no?.
+R: Hay muchos factores involucrados en la compatibilidad de los lenguajes 
+de programacion, algunos son: sistema operativo, arquitectura del 
+hardware, frameworks,etc. 
+
+2. ¿Qué tipo de máquina virtual es virtualBox?.
+R: Máquina virtual de sistema.
+			
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto 
+afecta a las demás? ¿por qué?
+R: Cada maquina es independiente, no afecta a otras si una se rompe.
