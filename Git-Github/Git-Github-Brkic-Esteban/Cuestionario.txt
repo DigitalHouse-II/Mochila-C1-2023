@@ -1,0 +1,6 @@
+A-
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto. Los desarrolladores que han trabajado con Git cuentan con una buena representación en la base de talentos disponibles para el desarrollo de software, y este sistema funciona a la perfección en una amplia variedad de sistemas operativos e IDE (entornos de desarrollo integrados).
+B-
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares.1​2​ Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio;3​ sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
+C-
+Si quieres trabajar con Git de forma local, pero no quieres utilizar la línea de comandos, puedes descargar e instalar en su lugar el cliente GitHub Desktop.
