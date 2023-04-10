@@ -1,0 +1,4 @@
+Vero,
+
+Hice esta carpeta porque no me hab[ia enterado que algunos trabajos habia que subirlos desde la VM. Por eso hice esta carpeta y este archivo para demostrar que puedo subir desde la VM
+
