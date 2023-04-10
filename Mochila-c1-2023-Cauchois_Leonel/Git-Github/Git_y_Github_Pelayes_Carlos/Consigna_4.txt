@@ -1,0 +1,15 @@
+A) Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y 
+compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.  
+Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas 
+realizan sobre archivos compartidos en un repositorio de código.
+
+B) El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al 
+código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los 
+términos de la versión 2 de la Licencia Pública General de GNU.
+
+C) Aparte de la terminal, se puede trabajar en Github a través de Github Desktop. GitHub Desktop es una aplicación que te 
+habilita para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un buscador web. GitHub Desktop 
+fomenta que tú y tu equipo colaboren utilizando las mejoras prácticas con Git y GitHub.
+
+
+
