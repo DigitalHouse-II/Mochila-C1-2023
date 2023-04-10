@@ -1,0 +1,18 @@
+Cuestionario:
+
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+2. ¿Qué tipo de máquina virtual soporta virtualBox?. 
+3. ¿Qué función cumple el hypervisor en la virtualización?
+4. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+
+Respuestas:
+
+
+1. La compatibilidad de un lenguaje de programación con un sistema operativo depende de factores como la arquitectura del procesador, las bibliotecas y las interfaces de programación disponibles en el sistema operativo. Algunos lenguajes de programación son "multiplataforma", lo que significa que se pueden ejecutar en diferentes sistemas operativos, mientras que otros lenguajes están más estrechamente relacionados con el sistema operativo subyacente y pueden requerir adaptaciones específicas para cada plataforma de destino.
+2. VirtualBox soporta varios tipos de máquinas virtuales, incluyendo máquinas virtuales x86 y AMD64/Intel64 para sistemas operativos de 32 y 64 bits, así como máquinas virtuales para sistemas operativos de servidor, como Solaris y Linux. Además, VirtualBox también soporta máquinas virtuales para sistemas operativos invitados de Apple Mac OS X y OS/2 Warp.
+3. El hypervisor es un componente de software que se ejecuta directamente en el hardware de la computadora y se utiliza en la virtualización para crear y administrar máquinas virtuales. El hypervisor es responsable de dividir los recursos del sistema, como el procesador, la memoria y el almacenamiento, entre las máquinas virtuales, y proporciona una capa de abstracción entre el hardware físico y los sistemas operativos invitados. En resumen, el hypervisor permite la virtualización y la ejecución simultánea de múltiples sistemas operativos en un solo host físico.
+4. Si una máquina virtual se rompe, en principio no debería afectar a las otras máquinas virtuales que estén ejecutándose en el mismo host físico, siempre y cuando no compartan recursos como almacenamiento o red.  Esto se debe a que las máquinas virtuales se ejecutan de forma aislada y tienen su propio sistema operativo, aplicaciones y archivos, que están separados de los de las otras máquinas virtuales. Sin embargo, es importante configurar adecuadamente los recursos compartidos y tener un plan de contingencia en caso de fallos para minimizar cualquier impacto en el resto del sistema.
+
+
