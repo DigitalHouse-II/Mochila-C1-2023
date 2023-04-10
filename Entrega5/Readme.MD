@@ -1,1 +1,2 @@
-## Introducción a la Informática
+URL Repo Indalecio Loza (https://github.com/indaloza/Checkpoint)
+
