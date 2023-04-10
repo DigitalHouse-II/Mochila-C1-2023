@@ -1,1 +1,1 @@
-## Introducción a la Informática
+## Introducción a la Informática.
