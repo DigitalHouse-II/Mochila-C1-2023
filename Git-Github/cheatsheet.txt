@@ -1,0 +1,17 @@
+git init : nuevo repo
+
+git add : agregar archivos
+
+git commit -m : guardar cambios
+
+git status : veo si está todo ok para hacer commit
+
+git push : subo los cambios
+
+git pull : bajo cambios
+
+git clone : bajo repo 
+
+git branch : enumera ramas
+
+git branch "nombre" : crea nueva rama
